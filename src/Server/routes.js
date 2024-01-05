@@ -18,7 +18,7 @@ const pool = new Pool({
 const geocoderOptions = {
   provider: "google",
   httpAdapter: "https",
-  apiKey: "AIzaSyBesNlwFe749CyepPgg2GcRnruEO4f4-cA",
+  apiKey: "API KEY",
   formatter: null,
 };
 const geocoder = NodeGeocoder(geocoderOptions);

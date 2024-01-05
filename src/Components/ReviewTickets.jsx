@@ -87,7 +87,7 @@ function ReviewTickets({ onBack }) {
   );
 
   const { isLoaded, loadError } = useLoadScript({
-    googleMapsApiKey: "AIzaSyBesNlwFe749CyepPgg2GcRnruEO4f4-cA", // ENTER API KEY
+    googleMapsApiKey: "API KEY", // ENTER API KEY
   });
 
   const handleAddressClick = (ticket) => {

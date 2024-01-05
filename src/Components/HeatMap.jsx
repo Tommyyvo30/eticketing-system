@@ -19,7 +19,7 @@ const Heatmap = ({ onBack }) => {
   const [locations, setLocations] = useState([]);
   const [heatmapData, setHeatmapData] = useState([]);
   const { isLoaded, loadError } = useLoadScript({
-    googleMapsApiKey: "AIzaSyBesNlwFe749CyepPgg2GcRnruEO4f4-cA", // ENTER API Key
+    googleMapsApiKey: "API KEY", // ENTER API Key
     libraries,
   });
 
