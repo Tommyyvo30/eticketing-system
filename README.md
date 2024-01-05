@@ -1,15 +1,14 @@
 <br>
 <div align="center">
-  <h1 align="center">Tic-Tac-Toe</h1>
+  <h1 align="center"> E-Ticket System 
+</h1>
 
   <p align="center">
     E-Ticket System 
     <br>
     <br>
-    <a href="https://tommyyvo30.github.io/Tic-Tac-Toe/">View Demo</a>
     <br>
-    <br>
-    <img src="/src/Assets/Homepage.png">
+    <img src="../src/Assets/Homepage.png">
   </p>
 </div>
 
