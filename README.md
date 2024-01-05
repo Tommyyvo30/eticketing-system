@@ -8,7 +8,7 @@
     <br>
     <br>
     <br>
-    <img src="../src/Assets/Homepage.png">
+    <img src="src/Assets/Homepage.png">
   </p>
 </div>
 
